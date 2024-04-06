@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712411003897,141,blaze-1-13,204,No Content,Thread Group 1-1,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,112
+1712411003936,102,blaze-1-13,204,No Content,Thread Group 1-2,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,71
+1712410999424,141,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,127,331,10,10,null,0,4475,112
+1712410999901,102,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,127,331,10,10,null,0,4041,71
+1712411004413,15,blaze-1-13,204,No Content,Thread Group 1-3,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,8
+1712411000403,15,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,127,331,10,10,null,0,4011,8
+1712411004956,14,blaze-1-13,204,No Content,Thread Group 1-4,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,7
+1712411000892,14,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,127,331,10,10,null,0,4065,7
+1712411005458,14,blaze-1-13,204,No Content,Thread Group 1-5,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,7
+1712411001401,14,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,127,331,10,10,null,0,4058,7
+1712411006002,16,blaze-1-13,204,No Content,Thread Group 1-6,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,7
+1712411001900,16,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-6,,false,,127,331,10,10,null,0,4103,7
+1712411006474,12,blaze-1-13,204,No Content,Thread Group 1-7,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,6
+1712411002394,12,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-7,,false,,127,331,10,10,null,0,4081,6
+1712411006997,12,blaze-1-13,204,No Content,Thread Group 1-8,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,6
+1712411002898,12,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-8,,false,,127,331,10,10,null,0,4099,6
+1712411007452,12,blaze-1-13,204,No Content,Thread Group 1-9,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,6
+1712411003399,12,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-9,,false,,127,331,10,10,null,0,4053,6
+1712411007923,12,blaze-1-13,204,No Content,Thread Group 1-10,,false,Response was null,127,331,10,10,http://www.gstatic.com/generate_204,0,0,6
+1712411003898,12,blaze-1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-10,,false,,127,331,10,10,null,0,4025,6
+1712411009080,1560,blaze-1-14,200,OK,Thread Group 1-2,text,true,,2371,709,10,10,https://blazedemo.com/,1558,0,1115
+1712411009085,1555,blaze-1-14,200,OK,Thread Group 1-1,text,true,,2411,709,10,10,https://blazedemo.com/,1550,0,1112
+1712411004043,1555,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2411,709,10,10,null,1550,5043,1112
+1712411004044,1560,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2371,709,10,10,null,1558,5040,1115
+1712411009445,1239,blaze-1-14,200,OK,Thread Group 1-3,text,true,,2224,709,10,10,https://blazedemo.com/,1238,0,749
+1712411004429,1239,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2224,709,10,10,null,1238,5015,749
+1712411010115,768,blaze-1-14,200,OK,Thread Group 1-4,text,true,,2305,709,10,10,https://blazedemo.com/,766,0,151
+1712411004972,768,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2305,709,10,10,null,766,5145,151
+1712411010493,738,blaze-1-14,200,OK,Thread Group 1-5,text,true,,2371,709,10,10,https://blazedemo.com/,735,0,123
+1712411005474,738,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2371,709,10,10,null,735,5022,123
+1712411011115,522,blaze-1-14,200,OK,Thread Group 1-6,text,true,,2326,709,10,10,https://blazedemo.com/,521,0,128
+1712411006020,522,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2326,709,10,10,null,521,5098,128
+1712411011493,544,blaze-1-14,200,OK,Thread Group 1-7,text,true,,2378,709,10,10,https://blazedemo.com/,541,0,109
+1712411006488,544,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2378,709,10,10,null,541,5008,109
+1712411012098,516,blaze-1-14,200,OK,Thread Group 1-8,text,true,,2263,709,10,10,https://blazedemo.com/,513,0,112
+1712411007010,516,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2263,709,10,10,null,513,5089,112
+1712411012478,536,blaze-1-14,200,OK,Thread Group 1-9,text,true,,2368,709,10,10,https://blazedemo.com/,534,0,112
+1712411007465,536,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2368,709,10,10,null,534,5016,112
+1712411013005,541,blaze-1-14,200,OK,Thread Group 1-10,text,true,,2235,709,10,10,https://blazedemo.com/,538,0,118
+1712411007936,542,blaze-1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2235,709,10,10,null,538,5072,118
+1712411025724,453,blaze-2-15,200,OK,Thread Group 1-1,text,true,,2370,888,10,10,https://blazedemo.com/reserve.php,452,0,0
+1712411010641,453,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2370,888,10,10,null,452,15084,0
+1712411025736,454,blaze-2-15,200,OK,Thread Group 1-2,text,true,,2460,888,10,10,https://blazedemo.com/reserve.php,449,0,0
+1712411010644,454,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2460,888,10,10,null,449,15092,0
+1712411025713,488,blaze-2-15,200,OK,Thread Group 1-3,text,true,,2384,888,10,10,https://blazedemo.com/reserve.php,487,0,0
+1712411010684,488,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2384,888,10,10,null,487,15030,0
+1712411025968,467,blaze-2-15,200,OK,Thread Group 1-4,text,true,,2339,888,10,10,https://blazedemo.com/reserve.php,464,0,0
+1712411010884,467,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2339,888,10,10,null,464,15085,0
+1712411026299,499,blaze-2-15,200,OK,Thread Group 1-5,text,true,,2486,888,10,10,https://blazedemo.com/reserve.php,497,0,0
+1712411011233,499,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2486,888,10,10,null,497,15067,0
+1712411026736,464,blaze-2-15,200,OK,Thread Group 1-6,text,true,,2434,888,10,10,https://blazedemo.com/reserve.php,462,0,0
+1712411011639,464,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2434,888,10,10,null,462,15098,0
+1712411027121,478,blaze-2-15,200,OK,Thread Group 1-7,text,true,,2475,888,10,10,https://blazedemo.com/reserve.php,476,0,0
+1712411012040,478,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2475,888,10,10,null,476,15082,0
+1712411027653,393,blaze-2-15,200,OK,Thread Group 1-8,text,true,,2461,888,10,10,https://blazedemo.com/reserve.php,391,0,0
+1712411012615,393,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2461,888,10,10,null,391,15040,0
+1712411028035,412,blaze-2-15,200,OK,Thread Group 1-9,text,true,,2477,888,10,10,https://blazedemo.com/reserve.php,409,0,0
+1712411013016,412,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2477,888,10,10,null,409,15020,0
+1712411028648,411,blaze-2-15,200,OK,Thread Group 1-10,text,true,,2490,888,10,10,https://blazedemo.com/reserve.php,410,0,0
+1712411013549,412,blaze-2,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2490,888,10,10,null,410,15100,0
+1712411036251,420,blaze-3-16,200,OK,Thread Group 1-3,text,true,,2654,944,10,10,https://blazedemo.com/purchase.php,419,0,0
+1712411026202,420,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2654,944,10,10,null,419,10050,0
+1712411036271,418,blaze-3-16,200,OK,Thread Group 1-2,text,true,,2547,944,9,9,https://blazedemo.com/purchase.php,416,0,0
+1712411026191,418,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2547,944,9,9,null,416,10081,0
+1712411036278,552,blaze-3-16,200,OK,Thread Group 1-1,text,true,,2653,944,8,8,https://blazedemo.com/purchase.php,551,0,0
+1712411026178,552,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2653,944,8,8,null,551,10101,0
+1712411036491,463,blaze-3-16,200,OK,Thread Group 1-4,text,true,,2617,944,7,7,https://blazedemo.com/purchase.php,463,0,0
+1712411026436,464,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2617,944,7,7,null,463,10056,0
+1712411036826,448,blaze-3-16,200,OK,Thread Group 1-5,text,true,,2537,944,6,6,https://blazedemo.com/purchase.php,446,0,0
+1712411026800,448,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2537,944,6,6,null,446,10027,0
+1712411037219,414,blaze-3-16,200,OK,Thread Group 1-6,text,true,,2679,944,5,5,https://blazedemo.com/purchase.php,413,0,0
+1712411027201,414,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2679,944,5,5,null,413,10019,0
+1712411037665,558,blaze-3-16,200,OK,Thread Group 1-7,text,true,,2508,944,4,4,https://blazedemo.com/purchase.php,556,0,0
+1712411027600,558,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2508,944,4,4,null,556,10067,0
+1712411038122,421,blaze-3-16,200,OK,Thread Group 1-8,text,true,,2580,944,3,3,https://blazedemo.com/purchase.php,419,0,0
+1712411028049,421,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2580,944,3,3,null,419,10074,0
+1712411038476,438,blaze-3-16,200,OK,Thread Group 1-9,text,true,,2671,944,2,2,https://blazedemo.com/purchase.php,434,0,0
+1712411028450,438,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2671,944,2,2,null,434,10027,0
+1712411039063,426,blaze-3-16,200,OK,Thread Group 1-10,text,true,,2680,944,1,1,https://blazedemo.com/purchase.php,424,0,0
+1712411029061,426,blaze-3,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2680,944,1,1,null,424,10004,0
